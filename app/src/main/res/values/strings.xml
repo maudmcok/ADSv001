@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADSv001</string>
+    <string name="title_adsnew_list">AdsNews</string>
+    <string name="title_adsnew_detail">AdsNew Detail</string>
+</resources>
