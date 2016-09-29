@@ -27,7 +27,7 @@
         android:layout_marginRight="16dp"
         app:layoutManager="LinearLayoutManager"
         tools:context="com.dmcokami.matok.adsv001.app.app.AdsNewListActivity"
-        tools:listitem="@layout/adsnew_list_contentL" />
+        tools:listitem="@layout/adsnew_list_contentl" />
 
     <FrameLayout
         android:id="@+id/adsnew_detail_container"
